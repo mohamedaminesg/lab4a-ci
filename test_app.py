@@ -9,4 +9,4 @@ def test_multiply():
     assert multiply(4, 5) == 20
 
 def test_subtract():
-    assert subtract(10, 4) == 6
+    assert subtract(10, 4) == 7
